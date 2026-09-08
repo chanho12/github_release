@@ -1,0 +1,7 @@
+﻿scenario_id,base_case_id,answer_source,answers_json,purpose,is_real_store_discovery
+S00,경기도|안산시 단원구|8301,UNKNOWN,{},모든 답변 모름,False
+S01,경기도|안산시 단원구|8301,SIMULATED,"{""store_cnt_context"": ""영업일감소""}",영업일 감소 가상분기,False
+S02,경기도|안산시 단원구|8301,SIMULATED,"{""ticket_context"": ""할인증가""}",할인 증가 가상분기,False
+S03,경기도|안산시 단원구|8301,SIMULATED,"{""industry_scope_match"": ""불일치""}",업종 불일치 가상분기,False
+S04,경기도|안산시 단원구|8301,SIMULATED,"{""concentration_context"": ""무관""}",점포와 집중 무관 가상분기,False
+S05,경기도|안산시 단원구|8301,SIMULATED,"{""peak_context"": ""범위변화""}",관측범위 변화 가상분기,False

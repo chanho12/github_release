@@ -1,0 +1,25 @@
+﻿case_id,SIDO_NM,CCG_NM,TP_BUZ_NO,TP_BUZ_NM,amt_direction,total_cnt_6m,supply_module,age_sensitivity_disagrees,card_hash,volume_group,external_group,stratum,stratum_eligible_n,stratum_selected_n,conditional_inclusion_fraction,sample_role
+경기도|안산시 단원구|8301,경기도,안산시 단원구,8301,제 과 점,감소,266574,True,False,dbf8773e0db317e84a23d488102fc337c53b2ba40d1226ca8c2ff438f9322065,충분,공급모듈,감소|충분|공급모듈,184,2,0.010869565217391304,INTERNAL_EVALUATION
+경기도|용인시 기흥구|4020,경기도,용인시 기흥구,4020,슈퍼 마켓,감소,448843,True,False,34b00b9674bee9f66715aa5b003be737f658316b67c6ab22f16f989ebf57af5b,충분,공급모듈,감소|충분|공급모듈,184,2,0.010869565217391304,INTERNAL_EVALUATION
+경상남도|사천시|4004,경상남도,사천시,4004,대형할인점,감소,153461,False,False,85eec8028bf9cb94e9acfc409aa9efabd654ddaf20b5906a210699f3c4d140bb,충분,BC만,감소|충분|BC만,156,2,0.01282051282051282,INTERNAL_EVALUATION
+경상북도|경주시|4004,경상북도,경주시,4004,대형할인점,감소,243063,False,False,86d5e6661f49c99b62d9c41a52bc50ce4b0f0becfc22b096ba34aa5fc624dcb2,충분,BC만,감소|충분|BC만,156,2,0.01282051282051282,INTERNAL_EVALUATION
+경상북도|청송군|8021,경상북도,청송군,8021,스넥,감소,7897,False,True,2fb9c8d4f919d302314637aa002d145dfb312a3f205cb28d84d246dce4fe8a66,소규모,BC만,감소|소규모|BC만,142,2,0.014084507042253521,INTERNAL_EVALUATION
+인천광역시|계양구|8005,인천광역시,계양구,8005,중국음식,감소,57168,True,False,03d37115bcbe623b61c54bdb9662ec96f943765bf12458a8523df007408caaa5,소규모,공급모듈,감소|소규모|공급모듈,99,2,0.020202020202020204,INTERNAL_EVALUATION
+전북특별자치도|부안군|8301,전북특별자치도,부안군,8301,제 과 점,감소,7927,True,True,3714d7ed16783ad09bfab4f68c8763dfc82e3464799b65453f8bb8174fb5e273,소규모,공급모듈,감소|소규모|공급모듈,99,2,0.020202020202020204,INTERNAL_EVALUATION
+충청남도|홍성군|8004,충청남도,홍성군,8004,일식회집,감소,23167,False,False,ceb64543b06b65daf4f830443958226683faae17de9eadaf90a18286211f6fed,소규모,BC만,감소|소규모|BC만,142,2,0.014084507042253521,INTERNAL_EVALUATION
+부산광역시|남구|8021,부산광역시,남구,8021,스넥,상승,265042,False,False,c7194ed0329975878520e1d2dcc8e474dd127f2ab0c2d92fba3b63b32560a7e7,충분,BC만,상승|충분|BC만,522,2,0.0038314176245210726,INTERNAL_EVALUATION
+부산광역시|사하구|8002,부산광역시,사하구,8002,갈비전문점,상승,3374,False,False,4e28d3f1e2aa94c73996727bd99817589d8aaf9ca833f014945869bca12adf0a,소규모,BC만,상승|소규모|BC만,427,2,0.00468384074941452,INTERNAL_EVALUATION
+부산광역시|서구|8002,부산광역시,서구,8002,갈비전문점,상승,739,False,False,a26ce74d370f05ac648557cc74f111c5e3498dce44ab08367c9fdaf7a740e0fd,소규모,BC만,상승|소규모|BC만,427,2,0.00468384074941452,INTERNAL_EVALUATION
+서울특별시|은평구|8001,서울특별시,은평구,8001,일반한식,상승,908106,False,False,cda906af6a0608c5d847f22a1cfead5794f6d9215757e3b8b6170407809f9dbd,충분,BC만,상승|충분|BC만,522,2,0.0038314176245210726,INTERNAL_EVALUATION
+울산광역시|동구|8005,울산광역시,동구,8005,중국음식,상승,69642,True,False,a5bbc8fa78498ad94a72f5e562df44e0b2f9338204335ace18e3213861ddb155,소규모,공급모듈,상승|소규모|공급모듈,241,2,0.008298755186721992,INTERNAL_EVALUATION
+전라남도|곡성군|8301,전라남도,곡성군,8301,제 과 점,상승,6872,True,False,79501f5e1a4c45e11ca166b729c984203b32d1b6632ba41420cbc7e845184738,소규모,공급모듈,상승|소규모|공급모듈,241,2,0.008298755186721992,INTERNAL_EVALUATION
+충청북도|단양군|4010,충청북도,단양군,4010,편 의 점,상승,138962,True,False,2ce300a259e2af2d8abb3f6a8259b218ae6c54baf0c69eec1ce40f568cb9f595,충분,공급모듈,상승|충분|공급모듈,407,2,0.004914004914004914,INTERNAL_EVALUATION
+충청북도|청주시 서원구|4020,충청북도,청주시 서원구,4020,슈퍼 마켓,상승,445505,True,False,d60166b1feec1acb1ff4e63693c67fb6d8b30b28f746bdfb176bbfb5b0f1ebb3,충분,공급모듈,상승|충분|공급모듈,407,2,0.004914004914004914,INTERNAL_EVALUATION
+강원특별자치도|강릉시|8006,강원특별자치도,강릉시,8006,서양음식,정체,712923,False,False,f647590ab07f5ef06e3cc8656baff76660082846b76f6b47a352c7d59781c43e,충분,BC만,정체|충분|BC만,18,2,0.1111111111111111,INTERNAL_EVALUATION
+강원특별자치도|인제군|8301,강원특별자치도,인제군,8301,제 과 점,정체,5371,True,False,6f17e7d06aa9b1245201080aea693cf9de74e63d27107f870ae3ac92c2cae988,소규모,공급모듈,정체|소규모|공급모듈,19,2,0.10526315789473684,INTERNAL_EVALUATION
+경기도|안양시 동안구|8005,경기도,안양시 동안구,8005,중국음식,정체,98814,True,False,7207286bc0242f785e55a357ab58f1e7b15a015caef65ffea3607cafe61d66b8,소규모,공급모듈,정체|소규모|공급모듈,19,2,0.10526315789473684,INTERNAL_EVALUATION
+경상남도|양산시|8021,경상남도,양산시,8021,스넥,정체,220638,False,False,39125401ddd562c7102f9cd66dd24d136bc8e0be6d03a2a5b6a915635b5435ff,충분,BC만,정체|충분|BC만,18,2,0.1111111111111111,INTERNAL_EVALUATION
+경상남도|창녕군|4004,경상남도,창녕군,4004,대형할인점,정체,30526,False,False,3ea96cc6463bce5d8da62084b6f80246c8fa8bc83ad4fbb9d7a6ec13af74bef0,소규모,BC만,정체|소규모|BC만,9,2,0.2222222222222222,INTERNAL_EVALUATION
+경상북도|포항시 북구|8301,경상북도,포항시 북구,8301,제 과 점,정체,298097,True,False,11808ca76e7abb54b27856c13cd0abbcd5e99fa2a4e69b358cbaec26385ad4c0,충분,공급모듈,정체|충분|공급모듈,37,2,0.05405405405405406,INTERNAL_EVALUATION
+전라남도|고흥군|4004,전라남도,고흥군,4004,대형할인점,정체,10765,False,False,543531b6d116a164c07c14cabf8be82deef133e4c03d6f3f24a7ffbfbb5ce56f,소규모,BC만,정체|소규모|BC만,9,2,0.2222222222222222,INTERNAL_EVALUATION
+전라남도|순천시|4020,전라남도,순천시,4020,슈퍼 마켓,정체,776739,True,True,31b3399c559ec9bb59d7d7bdd93b0a31531f1158e69776b222d81417aa2fabfe,충분,공급모듈,정체|충분|공급모듈,37,2,0.05405405405405406,INTERNAL_EVALUATION

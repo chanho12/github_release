@@ -1,0 +1,8 @@
+﻿previous_claim,confirmed_basis,corrected_expression,status,evidence
+지역총량·업종 불일치 679,679/2327,"정반대 496, 정체 포함 183",EXECUTED,region_total_vs_industry.csv
+지역총량 상승·업종 감소,432,432/2327=18.56%; 432/2027=21.31%; 조합 비율,EXECUTED,region_total_vs_industry.csv
+대표 사례 4쌍,성능 수치로 사용 불가,구조차이 상위 개발사례; Pair 1·3만 세 비교항목이 다르고 Pair 2·4는 모두 같음,EXECUTED,development_pair_review.csv
+원단위/로그 성장착시,10/9,별도 정의 유지; 다른 플래그와 합산 금지,EXECUTED,claim_reproduction.csv
+3방법 일치,강건성,동일 6개월 재사용; 독립 검증 아님,EXECUTED,claim_reproduction.csv
+within/mix 63.7/36.3,기여율,지역별 절대기여 비중 중앙값; 전국 총액 아님,EXECUTED,claim_reproduction.csv
+연령 구성,숫자연령,외국인 포함 전체와 국내개인 민감도 병기; 주민과 동일시 금지,EXECUTED,BC raw crosstab

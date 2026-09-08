@@ -1,0 +1,25 @@
+﻿case_id,same_card_hash,amt_exact,cnt_exact,ticket_exact,direction_exact,question_budget_ok,source_trace_present
+경기도|안산시 단원구|8301,True,True,True,True,True,True,True
+경기도|용인시 기흥구|4020,True,True,True,True,True,True,True
+경상남도|사천시|4004,True,True,True,True,True,True,True
+경상북도|경주시|4004,True,True,True,True,True,True,True
+경상북도|청송군|8021,True,True,True,True,True,True,True
+인천광역시|계양구|8005,True,True,True,True,True,True,True
+전북특별자치도|부안군|8301,True,True,True,True,True,True,True
+충청남도|홍성군|8004,True,True,True,True,True,True,True
+부산광역시|남구|8021,True,True,True,True,True,True,True
+부산광역시|사하구|8002,True,True,True,True,True,True,True
+부산광역시|서구|8002,True,True,True,True,True,True,True
+서울특별시|은평구|8001,True,True,True,True,True,True,True
+울산광역시|동구|8005,True,True,True,True,True,True,True
+전라남도|곡성군|8301,True,True,True,True,True,True,True
+충청북도|단양군|4010,True,True,True,True,True,True,True
+충청북도|청주시 서원구|4020,True,True,True,True,True,True,True
+강원특별자치도|강릉시|8006,True,True,True,True,True,True,True
+강원특별자치도|인제군|8301,True,True,True,True,True,True,True
+경기도|안양시 동안구|8005,True,True,True,True,True,True,True
+경상남도|양산시|8021,True,True,True,True,True,True,True
+경상남도|창녕군|4004,True,True,True,True,True,True,True
+경상북도|포항시 북구|8301,True,True,True,True,True,True,True
+전라남도|고흥군|4004,True,True,True,True,True,True,True
+전라남도|순천시|4020,True,True,True,True,True,True,True

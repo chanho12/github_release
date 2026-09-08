@@ -1,0 +1,52 @@
+# OS / editor
+.DS_Store
+**/.DS_Store
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Credentials
+.env
+**/.env
+!.env.example
+**/service_key*
+**/api_key*
+
+# BC-provided raw data: do not publish before checking redistribution terms.
+dataset/ABP_CONTEST_DATA.csv
+dataset/bc_card/ABP_CONTEST_DATA.csv
+
+# Large/raw external files. Keep metadata, documentation, mappings and processed CSVs.
+dataset/localdata_raw/
+dataset/폐업률/
+dataset/processed/*.xlsx
+dataset/external_raw/**/*.pdf
+dataset/external_raw/**/*.xlsx
+dataset/external_raw/**/*.xls
+dataset/external_raw/**/*.zip
+dataset/외부데이터/**/raw/
+dataset/외부데이터/**/*.xlsx
+dataset/외부데이터/**/*.xls
+dataset/외부데이터/**/*.zip
+references/benchmark/*.pdf
+
+# Generated outputs
+analysis/**/*.csv
+analysis/**/*.xlsx
+analysis/**/*.jsonl
+analysis/**/figures/
+# Keep the frozen diagnosis-evaluation packet referenced by the public report.
+!analysis/diagnosis_validation/run_20260907/**/*.csv
+!analysis/diagnosis_validation/run_20260907/**/*.jsonl
+*.part
+*.tmp

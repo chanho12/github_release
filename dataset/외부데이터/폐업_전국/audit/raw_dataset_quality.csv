@@ -1,0 +1,8 @@
+﻿source,file,encoding,row_count,column_count,has_open_date_field,has_close_date_field,has_business_state,has_detailed_state,open_date_present_pct,close_date_present_pct,bc_matched_regions,bc_region_match_pct,strict_closed_rows,strict_closed_missing_close_date,strict_closed_missing_pct
+LOCALDATA 일반음식점,dataset/외부데이터/폐업_전국/raw/localdata/general_restaurants/일반음식점.csv,cp949,2294794,39,True,True,True,True,99.99982569241509,70.53129823417702,255,100.0,1619109,561,0.034648686407153566
+LOCALDATA 휴게음식점,dataset/외부데이터/폐업_전국/raw/localdata/rest_cafes/휴게음식점.csv,cp949,645608,39,True,True,True,True,100.0,69.22482373204794,255,100.0,446931,10,0.002237481848428505
+LOCALDATA 제과점영업,dataset/외부데이터/폐업_전국/raw/localdata/bakery/제과점.csv,cp949,69480,39,True,True,True,True,100.0,71.19458837075418,255,100.0,49466,0,0.0
+LOCALDATA 대규모·준대규모점포,dataset/외부데이터/폐업_전국/raw/localdata/large_scale_retail/생활_대규모점포.csv,cp949,4183,26,True,True,True,True,100.0,17.690652641644753,217,85.09803921568627,741,1,0.1349527665317139
+LOCALDATA 식품판매업(기타),dataset/외부데이터/폐업_전국/raw/localdata/food_retail/식품판매업_기타.csv,cp949,13814,39,True,True,True,True,100.0,55.00217170985956,254,99.6078431372549,7598,0,0.0
+LOCALDATA 안전상비의약품판매업소,dataset/외부데이터/폐업_전국/raw/localdata/other_candidates/안전상비의약품판매업소.csv,cp949,92009,23,True,True,True,True,100.0,54.062102620395834,255,100.0,49742,0,0.0
+LOCALDATA 담배소매업,dataset/외부데이터/폐업_전국/raw/localdata/other_candidates/담배소매업.csv,cp949,657168,24,True,True,True,True,99.99939132763616,67.7012575171037,255,100.0,445621,710,0.15932821837390967

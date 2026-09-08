@@ -1,0 +1,9 @@
+﻿case_id,SIDO_NM,CCG_NM,TP_BUZ_NO,TP_BUZ_NM,amt_direction,total_cnt_6m,supply_module,age_sensitivity_disagrees,card_hash,sample_role
+강원특별자치도|화천군|8001,강원특별자치도,화천군,8001,일반한식,감소,75797,False,False,dd64df53349a079f07520e060a8a6daa35f164c9dbe8fade3a95282a181527f1,DEVELOPMENT_EXPLANATION
+강원특별자치도|횡성군|8005,강원특별자치도,횡성군,8005,중국음식,정체,11348,True,False,3479b5e11d7403b1b77cb7927118d1d7b0edf0014093827baca07e0c77465575,DEVELOPMENT_EXPLANATION
+경기도|동두천시|8005,경기도,동두천시,8005,중국음식,정체,18689,True,False,74988c7ef518a710bd653617ec8a98b1c446a23c2837879323a1794a676cce70,DEVELOPMENT_EXPLANATION
+경상남도|산청군|8301,경상남도,산청군,8301,제 과 점,상승,10205,True,False,1f6632cddaf40da7182d4ea9114decccb066ad1cdd9c8a258a1b46c19f416fd2,DEVELOPMENT_EXPLANATION
+경상북도|울진군|8001,경상북도,울진군,8001,일반한식,감소,119833,False,False,3387c1ac985de5a7a3ea75c60217b9bbb2c1c4652a941116dc02d2fd0aa3d283,DEVELOPMENT_EXPLANATION
+대구광역시|군위군|4010,대구광역시,군위군,4010,편 의 점,상승,102903,True,False,c062adc178993e5a5cdd2a43f3bebf290000c8a091a2d50a7526bc53289418b5,DEVELOPMENT_EXPLANATION
+인천광역시|옹진군|4010,인천광역시,옹진군,4010,편 의 점,상승,145897,True,False,5acf4cdc8aefebacd0343d965e15f4f43c7e2423db7c507fa342db895c63a678,DEVELOPMENT_EXPLANATION
+전라남도|장성군|8301,전라남도,장성군,8301,제 과 점,상승,13078,True,False,03f19ac3df8cf7c029e0d96af9cf6a140d161916d463fc97c62aabf8ef3de0f2,DEVELOPMENT_EXPLANATION

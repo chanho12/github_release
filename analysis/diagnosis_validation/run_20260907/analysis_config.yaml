@@ -1,0 +1,10 @@
+run_id: run_20260907
+seed: 20260907
+period: [202601, 202602, 202603, 202604, 202605, 202606]
+neutral_band_pct_month: 0.25
+sensitivity_neutral_bands_pct_month: [0.0, 0.25, 0.5]
+evaluation_target_n: 24
+split_unit: SIDO_NM+CCG_NM
+minimum_complete_months: 6
+llm_status: NOT_RUN_API
+human_evaluation_status: AWAITING_HUMAN_EVAL

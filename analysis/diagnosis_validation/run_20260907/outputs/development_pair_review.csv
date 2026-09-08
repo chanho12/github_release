@@ -1,0 +1,5 @@
+﻿pair_id,first_check_differs,additional_questions_differ,full_order_differs,interpretation
+1,True,True,True,차이가 없어도 실패가 아님; 동일 점검이 합리적일 수 있음
+2,False,False,False,차이가 없어도 실패가 아님; 동일 점검이 합리적일 수 있음
+3,True,True,True,차이가 없어도 실패가 아님; 동일 점검이 합리적일 수 있음
+4,False,False,False,차이가 없어도 실패가 아님; 동일 점검이 합리적일 수 있음

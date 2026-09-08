@@ -1,0 +1,16 @@
+﻿test,status,value,meaning
+log_identity,PASS,9.159339953157541e-16,beta_AMT=beta_CNT+beta_ticket
+card_count,PASS,2327,완전 지역×업종 카드 수
+region_split_leakage,PASS,0,개발·평가 시군구 중복
+evaluation_unique_regions,PASS,24,평가사례별 고유 지역
+C0_repeat_determinism,PASS,e2264a3c21d59b4aa0c401e07200cd8ae5c22d0b11758609665abd294b7d65a8,동일 입력 반복
+source_card_binding,PASS,1,A/C0가 동일 카드 해시에 결합
+C0_numeric_fact_consistency,PASS,1,C0 수치가 Evidence Card와 정확히 일치
+direction_threshold_consistency,PASS,1,±0.25%/월 방향 규칙 재계산
+question_budget,PASS,3,A/C0 질문 최대 3개
+missing_module_abstention,PASS,0,공급자료 없을 때 공급 규칙 비활성
+secret_scan,PASS,0,출력의 비밀키 패턴
+unsupported_claim_keyword_review,PASS,0,자동 키워드 검사는 사람평가 대체 아님
+LLM_B_execution,NOT_RUN_API,no adapter/model/key/budget authorized,프롬프트·실행기만 작성
+LLM_C_execution,NOT_RUN_API,no adapter/model/key/budget authorized,프롬프트·실행기만 작성
+human_evaluation,AWAITING_HUMAN_EVAL,0,점수·만족도·시간을 생성하지 않음

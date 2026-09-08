@@ -1,0 +1,4 @@
+﻿raw_file,size_bytes,sha256,copied_into_package,reason
+dataset/localdata_raw/일반음식점.csv,696401999,90247868f8a58c931e1ebfc8d89ceb74df74c1ccd4a88589c1a08c6038da3103,False,총 883MB 원본 중복을 피하고 기존 위치·해시를 보존
+dataset/localdata_raw/제과점.csv,22654613,90ade8a48f0aa8fdacf276cee623facf2ce8d20f3768e3a7f2116dcef35e3f9f,False,총 883MB 원본 중복을 피하고 기존 위치·해시를 보존
+dataset/localdata_raw/휴게음식점.csv,207233039,98036f144ae9ad0f54ce6ed397908f8f80cbdea5db2ce5d7a152db216bf2624e,False,총 883MB 원본 중복을 피하고 기존 위치·해시를 보존
