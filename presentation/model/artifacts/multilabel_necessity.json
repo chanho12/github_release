@@ -1,0 +1,47 @@
+{
+  "holdout_target_month": 202606,
+  "labels": [
+    "demand_decline",
+    "ticket_pressure",
+    "customer_concentration"
+  ],
+  "holdout_rows": 2344,
+  "rows_with_no_problem": 1102,
+  "rows_with_one_problem": 898,
+  "rows_with_multiple_problems": 344,
+  "multiple_problem_share": 0.14675767918088736,
+  "mean_label_cardinality": 0.6924061433447098,
+  "forced_single_theoretical_recall_ceiling_on_multi_rows": 0.47448275862068967,
+  "label_cardinality_counts": {
+    "0": 1102,
+    "1": 898,
+    "2": 307,
+    "3": 37
+  },
+  "cooccurrence": {
+    "demand_decline": {
+      "demand_decline": 452,
+      "ticket_pressure": 149,
+      "customer_concentration": 151
+    },
+    "ticket_pressure": {
+      "demand_decline": 149,
+      "ticket_pressure": 580,
+      "customer_concentration": 118
+    },
+    "customer_concentration": {
+      "demand_decline": 151,
+      "ticket_pressure": 118,
+      "customer_concentration": 591
+    }
+  },
+  "label_definition": {
+    "definition": "within each target_month x industry peer percentile",
+    "demand_decline": "future CNT and AMT growth both <= Q25",
+    "ticket_pressure": "future ticket growth <= Q25",
+    "customer_concentration": "future HHI change >= Q75",
+    "competition_pressure": "future supply level >= Q75 and throughput growth <= Q25",
+    "train_boundary_rows": 4676
+  },
+  "interpretation": "Co-occurrence establishes target structure; model scores alone do not prove ontology."
+}

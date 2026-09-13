@@ -1,0 +1,16 @@
+{
+  "source_files": 6,
+  "months": [
+    202601,
+    202602,
+    202603,
+    202604,
+    202605,
+    202606
+  ],
+  "industry_n": 7,
+  "national_rows": 42,
+  "province_rows": 707,
+  "local_rows": 10675,
+  "local_close_observed_pct": 11.61592505854801
+}

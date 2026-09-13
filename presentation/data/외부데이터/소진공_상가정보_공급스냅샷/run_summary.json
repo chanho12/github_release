@@ -1,0 +1,9 @@
+{
+  "retrieved_at": "2026-09-09T11:25:17.477313+09:00",
+  "source": "https://apis.data.go.kr/B553077/api/open/sdsc2",
+  "snapshot_only": true,
+  "industry_count": 11,
+  "small_code_count": 29,
+  "store_count": 633644,
+  "privacy": "개별 점포 필드 미저장"
+}

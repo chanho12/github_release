@@ -1,0 +1,15 @@
+dataset_id,institution,title,period,downloaded_at,url,local_file,license_or_cost,notes
+MOIS_AGE_POP_202601_202606,행정안전부,주민등록 인구통계 연령별 인구현황,2026-01~2026-06,2026-09-04,https://jumin.mois.go.kr/ageStatMonth.do,dataset/external_raw/mois/202601_202606_age_population.csv,무료 공공자료,월말 주민등록 인구; CSV 직접 다운로드
+MODS_CPI_202606,국가데이터처,2026년 6월 소비자물가동향,2026-01~2026-06,2026-09-04,https://mods.go.kr/board.es?act=view&bid=213&list_no=445720&mainXml=Y&mid=b70203010000,dataset/external_raw/kosis/2026_06_consumer_price_trends.pdf,무료 공공자료,총지수와 식료품·에너지 제외지수의 월별 공식 지수
+NTS_MONTHLY_LOCAL_202601_202606,국세청,월간 지역 경제지표,2026-01~2026-06,2026-09-02,https://tasis.nts.go.kr/,dataset/processed/BC_국세청_폐업지표_202601_202606.xlsx,무료 공공자료,가동사업자·신규·폐업; 시군구 폐업건수 마스킹률 96.46%
+MOLIT_CENSUS_BOUNDARY_2025,국토교통부,센서스경계 시군구경계,2025,2026-09-04,https://www.data.go.kr/data/15125064/fileData.do,,무료 공공자료,기관 사이트 로그인/별도 다운로드가 필요해 이번 자동 재현에는 미수록
+KTO_TOURISM_DATALAB,한국관광공사,한국관광 데이터랩 지역별 방문자 데이터,2026-01~2026-06 요청,2026-09-04,https://datalab.visitkorea.or.kr/,,무료 회원 서비스 가능성,로그인 및 이용조건 확인이 필요해 자동 수집하지 않음
+LOCALDATA_GENERAL_RESTAURANTS,행정안전부,식품 일반음식점 전국파일,최신 스냅샷·과거 인허가/폐업 이력,2026-09-04,https://file.localdata.go.kr/file/general_restaurants/info,dataset/localdata_raw/일반음식점.csv,무료·이용제한 없음,2026년 하반기 행정구역 개편 명칭을 상반기 경계로 역매핑
+LOCALDATA_REST_CAFES,행정안전부,식품 휴게음식점 전국파일,최신 스냅샷·과거 인허가/폐업 이력,2026-09-04,https://file.localdata.go.kr/file/rest_cafes/info,dataset/localdata_raw/휴게음식점.csv,무료·이용제한 없음,스넥 중 분식 업태만 연결
+LOCALDATA_BAKERIES,행정안전부,식품 제과점영업 전국파일,최신 스냅샷·과거 인허가/폐업 이력,2026-09-04,https://file.localdata.go.kr/file/bakeries/info,dataset/localdata_raw/제과점.csv,무료·이용제한 없음,BC 제과점과 HIGH confidence 연결
+MODS_CPI_202602,국가데이터처,2026년 2월 소비자물가동향,2026-01~2026-02,2026-09-04,https://mods.go.kr/board.es?act=view&bid=213&list_no=443883&mainXml=Y&mid=b70203010000,dataset/external_raw/kosis/2026_02_consumer_price_trends.pdf,무료 공공자료,세부 지출목적별 CPI 추출
+MODS_CPI_202604,국가데이터처,2026년 4월 소비자물가동향,2026-03~2026-04,2026-09-04,https://mods.go.kr/board.es?act=view&bid=213&list_no=444938&mainXml=Y&mid=b70203010000,dataset/external_raw/kosis/2026_04_consumer_price_trends.pdf,무료 공공자료,세부 지출목적별 CPI 추출
+MOIS_LIVING_POP_2026Q1,행정안전부,2026년 1분기 인구감소지역 생활인구 산정결과,2026-01~2026-03,2026-09-04,https://mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=128294,dataset/external_raw/mois_living_population/2026Q1_living_population_detail.pdf,무료 공공자료,89개 인구감소지역 체류인구; 관광객보다 넓은 비거주 체류 개념
+REB_COMMERCIAL_RENT_2026Q1,한국부동산원,2026년 1분기 상업용부동산 임대동향조사,2026-Q1,2026-09-04,https://www.reb.or.kr/r-one/portal/bbs/rpt/searchBulletinPage.do?listSubCd=RPT05,dataset/external_raw/reb_commercial/2026Q1_commercial_rent.xlsx,무료 공공자료,17개 시도와 대표상권; BC 시군구와 직접 일치하지 않음
+REB_COMMERCIAL_RENT_2026Q2,한국부동산원,2026년 2분기 상업용부동산 임대동향조사,2026-Q2,2026-09-04,https://www.reb.or.kr/r-one/portal/bbs/rpt/searchBulletinPage.do?listSubCd=RPT05,dataset/external_raw/reb_commercial/2026Q2_commercial_rent.xlsx,무료 공공자료,중대형·소규모·집합상가 임대료와 공실률
+SEMAS_STORE_API,소상공인시장진흥공단,상가(상권)정보 API,현재 스냅샷,2026-09-04,https://www.data.go.kr/data/15012005/openapi.do,,무료·자동승인,서비스키 없이 호출 불가; 2026년 1~6월 월별 이력 미확보로 계량분석 제외

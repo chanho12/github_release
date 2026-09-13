@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/.ipynb_checkpoints/
+model/.env
+model/neo4j_data/
+.venv/
+venv/
+

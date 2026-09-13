@@ -1,0 +1,10 @@
+data_id,data_name,desired_granularity,past_recoverability,current_local_status,usable_history,official_source,graph_role,critical_limit
+H01,BC 결제 원본,월×시군구×업종×성별×연령,주최측 추가제공 필요,2026-01~06만 보유,2026-01~06,외부 공개 재취득 링크 없음,Observation,동일 표본·집계정의 과거치는 대체데이터로 복원 불가
+H02,LOCALDATA 일반음식점·제과점,점포 인허·폐업일,가능,전국 스냅샷 보유,2019-01~2026-06 월별 재구성,https://www.localdata.go.kr/,MarketHistory,현재 스냅샷에 잔존하는 이력 기준·BC와 모집단 다름
+H03,국세청 월간 지역 경제지표,월×지역×생활업종,아카이브 수동 확보 가능,2026-01~06 보유,과거월 추가 확보 필요,https://tasis.nts.go.kr/,MarketHistory,비공개 마스킹·업종매핑·BC 모집단 차이
+H04,행정안전부 주민등록 연령인구,월×시군구×연령,가능,2026-01~06 보유,월별 과거 CSV 확장 가능,https://jumin.mois.go.kr/ageStatMonth.do,Demography,행정구역 개편 코드 보정 필요
+H05,KOSIS 소비자물가,월×품목,가능,2026-01~06 보유,장기 시계열 확보 가능,https://kosis.kr/,MacroContext,BC 업종과 품목 매핑 필요
+H06,기상청 ASOS,일·월×관측지점,가능,2026-01~06 보유,과거 관측 확장 가능,https://data.kma.go.kr/,ContextEvent,시군구 보수적 매핑 필요
+H07,한국부동산원 상업용부동산,분기×시도·표본상권,아카이브 수동 확보 가능,2026Q1~Q2 보유,과거 분기 추가 확보 필요,https://www.reb.or.kr/r-one/,MacroContext,개별 점포 임대료가 아님
+H08,공식 시장트렌드·기업사례,연·월×트렌드×사례,부분 가능,2023~2026 공식사례 10건,2023~2026 타임라인 생성,발표용/data/외부데이터/시장트렌드_2026/README.md,Trend-Case,선택편향·기업 자사 성과·성공사례 편향
+H09,사업자×개선안×성과,개인×실험×비교집단,외부 복구 불가,미보유,서비스 운영으로 수집,자체 수집,Interaction-Outcome,이 데이터 전에는 진정한 collaborative filtering이 아님

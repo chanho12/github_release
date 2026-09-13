@@ -1,0 +1,4 @@
+﻿file,rows,id_column,missing_ids,duplicate_rows_after_first,unique_nonempty_ids,duplicate_rate_pct
+일반음식점.csv,2294794,관리번호,0,0,2294794,0.0
+제과점.csv,69480,관리번호,0,0,69480,0.0
+휴게음식점.csv,645608,관리번호,0,0,645608,0.0

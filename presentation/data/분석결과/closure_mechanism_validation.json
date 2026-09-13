@@ -1,0 +1,18 @@
+{
+  "study_period": "2026-01-01~2026-06-30",
+  "exact_industries": [
+    "제과점",
+    "중국음식"
+  ],
+  "store_events": 143116,
+  "at_risk_jan1": 45904,
+  "h1_closures_existing": 1974,
+  "region_link_pct": 100.0,
+  "coordinate_pct": 96.38157894736842,
+  "outputs": {
+    "16_exact_industry_tenure_closure_rate.csv": 10,
+    "17_new_store_km_survival.csv": 20,
+    "18_store_structure_closure_rate.csv": 16,
+    "19_exact_industry_closure_mechanism_typology.csv": 509
+  }
+}
