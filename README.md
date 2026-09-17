@@ -8,6 +8,11 @@
 ├── requirements.txt
 ├── code/
 │   └── BC카드_업종별_전체분석_발표용.ipynb
+├── model/
+│   ├── SETUP_API.md
+│   ├── src/risk_assistant/
+│   ├── artifacts/
+│   └── docker-compose.yml
 └── data/
     ├── BC카드_제공데이터/
     ├── 외부데이터/
@@ -25,6 +30,10 @@ jupyter notebook code/BC카드_업종별_전체분석_발표용.ipynb
 
 BC 원본 CSV는 공모전 데이터의 비공개 팀 저장소 공유가 허용된 것을 확인한 뒤 포함했습니다. 저장소 접근 권한을 제한하고, 저장소를 공개로 전환하기 전에는 데이터 공개 조건을 다시 확인해야 합니다.
 
-노트북 실행에 필요한 BC·외부데이터 가공 캐시는 포함했습니다. GitHub 일반 파일 한도를 넘는 일부 LOCALDATA 전국 원본 스냅샷은 포함하지 않았으며, 취득 방법은 `data/` 문서에 남겼습니다.
+노트북 실행에 필요한 BC·외부데이터 가공 캐시와 GitHub에 들어가는 원본은 포함했습니다. GitHub 일반 파일 한도를 넘는 LOCALDATA 원본 CSV 3개는 [Google Drive에 고정 스냅샷으로 보관하고 복구·해시 검증 방법을 기록했습니다](data/외부데이터/대용량원본_Drive_복구_검증.md). Drive 파일 접근에는 별도 공유 권한이 필요합니다.
 
 API 키·비밀번호·개인용 설정 파일은 저장소에 올리지 않습니다.
+
+## Neo4j·GraphRAG 진단 API
+
+멀티라벨 위험 분류, Neo4j 관계 검색, OpenAI 임베딩 벡터 검색, 과거·트렌드 context, 사업자 추가답변, Responses API 조언 코드는 model/에 있습니다. 설치부터 한 명령 실행까지는 [model/SETUP_API.md](model/SETUP_API.md)를 따릅니다. 실제 OpenAI 키와 Neo4j 비밀번호는 model/.env에만 저장하며 Git에는 포함하지 않습니다.

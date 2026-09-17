@@ -1,0 +1,53 @@
+{
+  "holdout_target_month": 202606,
+  "train_rows": 4676,
+  "test_rows": 2344,
+  "thresholds": {
+    "definition": "within each target_month x industry peer percentile",
+    "demand_decline": "future CNT and AMT growth both <= Q25",
+    "ticket_pressure": "future ticket growth <= Q25",
+    "customer_concentration": "future HHI change >= Q75",
+    "competition_pressure": "future supply level >= Q75 and throughput growth <= Q25",
+    "train_boundary_rows": 4676
+  },
+  "metrics": {
+    "demand_decline": {
+      "n": 2344,
+      "positives": 452,
+      "prevalence": 0.19283276450511946,
+      "f1_at_0_5": 0.2980132450331126,
+      "roc_auc": 0.5531417800145934,
+      "average_precision": 0.22001022264627124
+    },
+    "ticket_pressure": {
+      "n": 2344,
+      "positives": 580,
+      "prevalence": 0.24744027303754265,
+      "f1_at_0_5": 0.3991951710261569,
+      "roc_auc": 0.6136894987880209,
+      "average_precision": 0.3889590156394641
+    },
+    "customer_concentration": {
+      "n": 2344,
+      "positives": 591,
+      "prevalence": 0.2521331058020478,
+      "f1_at_0_5": 0.3509815585960738,
+      "roc_auc": 0.5275597163383439,
+      "average_precision": 0.2570448309869248
+    },
+    "competition_pressure": {
+      "n": 1010,
+      "positives": 29,
+      "prevalence": 0.028712871287128714,
+      "f1_at_0_5": 0.1593625498007968,
+      "roc_auc": 0.833386059263946,
+      "average_precision": 0.09336922051102158
+    }
+  },
+  "limitations": [
+    "2026-01~06 only",
+    "single-month temporal holdout",
+    "competition label available only for exact supply mappings",
+    "region-industry risk; never an individual-store closure probability"
+  ]
+}
