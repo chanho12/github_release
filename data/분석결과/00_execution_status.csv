@@ -1,0 +1,16 @@
+﻿analysis_no,analysis,rows,columns,status
+1,01_demand_supply_quadrants,1009,23,EXECUTED
+2,02_age_supply_specialization,11552,16,EXECUTED
+3,03_ticket_decline_typology,2327,19,EXECUTED
+4,04_supply_specialization_closure_pressure,2388,39,EXECUTED
+5,05_demand_closure_lead_lag,30,11,EXECUTED_EXPLORATORY_SHORT_WINDOW
+6,06_consumer_segment_shift,22254,13,EXECUTED
+7,07_foreign_consumption_specialization,2133,16,EXECUTED
+8,08_corporate_payment_dependency,2323,14,EXECUTED
+9,09_growth_stability,2327,17,EXECUTED
+10,10_regional_industry_portfolio,2366,10,EXECUTED
+11,11_substitute_competition_pairs,10,10,EXECUTED
+12,12_ticket_level_growth_relation,2327,17,EXECUTED
+13,13_market_size_growth_polarization,2327,17,EXECUTED
+14,14_spatial_peer_spillover_proxy,2327,21,EXECUTED_WITH_PROVINCIAL_PEER_PROXY
+15,15_open_close_churn,2388,34,EXECUTED

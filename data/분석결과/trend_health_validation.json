@@ -1,0 +1,19 @@
+{
+  "period": "2026-01~2026-06",
+  "region_industry_rows": 2327,
+  "industries": 11,
+  "high_closure_support_targets_exact_mapping": 128,
+  "success_definition": [
+    "real_amt_positive",
+    "cnt_positive",
+    "positive_without_peak",
+    "population_adjusted_positive",
+    "persistent_positive"
+  ],
+  "files": {
+    "22": 2327,
+    "23": 11,
+    "24": 11,
+    "25": 128
+  }
+}

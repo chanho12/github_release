@@ -1,0 +1,12 @@
+﻿TP_BUZ_NO,TP_BUZ_NM,external_trend,marketing_hypothesis,source_url,source_type,bc_verification_status
+4004,대형할인점,집밥경제·초미세가격,간편식·소용량·가격대 최적화 가설,https://www.mafra.go.kr/bbs/home/798/594990/download.do,정부 보고서,부분검증
+4010,편의점,근거리 식사·차별화 HMR·가성비 품질,식사대용·제과·협업상품 테스트,https://www.bgfretail.com/press/view/?id=1798,기업 공식 판매신호,상품데이터 필요
+4020,슈퍼마켓,집밥경제·소용량 장보기,신선·반조리·소포장 묶음 가설,https://www.mafra.go.kr/bbs/home/798/594990/download.do,정부 보고서,부분검증
+8001,일반한식,서바이벌 다이닝·K-푸드 투어,1인·가성비 정식과 외국인 메뉴 가설,https://www.mafra.go.kr/bbs/home/798/594990/download.do,정부 보고서,BC외국인비중 검증가능
+8002,갈비전문점,가성비&가치비·진정성 미식,세트가격과 원산지·품질 메시지 A/B 가설,https://www.mafra.go.kr/bbs/home/798/594990/download.do,정부 보고서,메뉴·가격 필요
+8003,한정식,진정성 미식·K-푸드 체험,지역성·스토리·외국인 체험상품 가설,https://www.mafra.go.kr/bbs/home/798/594990/download.do,정부 보고서,BC외국인비중 검증가능
+8004,일식회집,가치비·진정성 미식,점심 가성비와 저녁 프리미엄 이중전략 가설,https://www.mafra.go.kr/bbs/home/798/594990/download.do,정부 보고서,시간대·메뉴 필요
+8005,중국음식,서바이벌 다이닝·올데이 올라운더,1인식·세트·포장 빈도 회복 가설,https://www.mafra.go.kr/bbs/home/798/594990/download.do,정부 보고서,시간대·배달 필요
+8006,서양음식,가치비·진정성 미식,시그니처 메뉴+입문가 메뉴 이중전략 가설,https://www.mafra.go.kr/bbs/home/798/594990/download.do,정부 보고서,메뉴·가격 필요
+8021,스넥,초가성비·집밥경제,소액 다빈도·포장 묶음 가설,https://www.mafra.go.kr/bbs/home/798/594990/download.do,정부 보고서,배달·포장 필요
+8301,제과점,가성비+전문점 품질·편의점 제과 경쟁,베스트셀러 재해석·소용량·차별화 가설,https://www.bgfretail.com/press/view/?id=1817,기업 공식 판매신호,외부채널 경쟁신호

@@ -1,0 +1,22 @@
+﻿source,state,row_count
+LOCALDATA 일반음식점,폐업,1619109
+LOCALDATA 일반음식점,영업/정상,675685
+LOCALDATA 휴게음식점,폐업,446931
+LOCALDATA 휴게음식점,영업/정상,198677
+LOCALDATA 제과점영업,폐업,49466
+LOCALDATA 제과점영업,영업/정상,20014
+LOCALDATA 대규모·준대규모점포,영업/정상,2970
+LOCALDATA 대규모·준대규모점포,폐업,741
+LOCALDATA 대규모·준대규모점포,휴업,344
+LOCALDATA 대규모·준대규모점포,취소/말소/만료/정지/중지,128
+LOCALDATA 식품판매업(기타),폐업,7598
+LOCALDATA 식품판매업(기타),영업/정상,6216
+LOCALDATA 안전상비의약품판매업소,폐업,49051
+LOCALDATA 안전상비의약품판매업소,영업/정상,42145
+LOCALDATA 안전상비의약품판매업소,취소/말소/만료/정지/중지,694
+LOCALDATA 안전상비의약품판매업소,휴업,105
+LOCALDATA 안전상비의약품판매업소,제외/삭제/전출,14
+LOCALDATA 담배소매업,폐업,445621
+LOCALDATA 담배소매업,영업/정상,135565
+LOCALDATA 담배소매업,취소/말소/만료/정지/중지,75857
+LOCALDATA 담배소매업,휴업,125

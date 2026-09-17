@@ -1,0 +1,12 @@
+﻿source,TPBUZ_NM,mapping_confidence,closure_count
+LOCALDATA 대규모·준대규모점포,슈퍼마켓,MEDIUM,11
+LOCALDATA 식품판매업(기타),슈퍼마켓,LOW,183
+LOCALDATA 안전상비의약품판매업소,편의점,MEDIUM,1393
+LOCALDATA 일반음식점,갈비전문점,LOW,1300
+LOCALDATA 일반음식점,서양음식,MEDIUM,1740
+LOCALDATA 일반음식점,스넥,MEDIUM,1949
+LOCALDATA 일반음식점,일반한식,MEDIUM,12644
+LOCALDATA 일반음식점,일식회집,MEDIUM,1428
+LOCALDATA 일반음식점,중국음식,HIGH,988
+LOCALDATA 제과점영업,제과점,HIGH,1685
+LOCALDATA 휴게음식점,편의점,MEDIUM,1119
