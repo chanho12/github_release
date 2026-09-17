@@ -1,8 +1,0 @@
-﻿NTS_industry,TP_BUZ_NO,TP_BUZ_NM,mapping_confidence,mapping_limit
-편의점,4010,편의점,HIGH,명칭 직접 대응
-슈퍼마켓,4020,슈퍼마켓,HIGH,명칭 직접 대응
-한식음식점,8001,일반한식,MEDIUM_HIGH,BC 갈비전문점·한정식과 범위 중첩 가능
-일식음식점,8004,일식회집,MEDIUM_HIGH,BC 회집 범위와 차이 가능
-중식음식점,8005,중국음식,HIGH,명칭상 직접 대응
-분식점,8021,스넥,MEDIUM_HIGH,BC 스넥 공식 범위 미공개
-제과점,8301,제과점,HIGH,명칭 직접 대응

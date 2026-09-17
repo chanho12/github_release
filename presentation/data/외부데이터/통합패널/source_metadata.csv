@@ -1,7 +1,0 @@
-﻿dataset,official_url,acquisition_method,period
-행정안전부 주민등록 연령인구,https://jumin.mois.go.kr/ageStatMonth.do,기존 공식 다운로드 재사용,2026.01~06
-국세청 월간 지역 경제지표,https://tasis.nts.go.kr/,기존 공식 다운로드·가공본 재사용,2026.01~06
-LOCALDATA 일반음식점,https://www.data.go.kr/data/15096283/standard.do,기존 공식 전국파일 재사용,인허가 이력으로 2026.01~06 재구성
-기상청 기상월보,https://data.kma.go.kr/data/publication/publicationAsosList.do,공식 엑셀 직접 다운로드,2026.01~06
-법무부 등록외국인 상세통계 2026.03,https://www.immigration.go.kr/bbs/immigration/227/605617/artclView.do,공식 첨부 엑셀 직접 다운로드,2026.03.31
-법무부 등록외국인 상세통계 2026.06,https://www.immigration.go.kr/bbs/immigration/227/608715/artclView.do,공식 첨부 엑셀 직접 다운로드,2026.06.30
